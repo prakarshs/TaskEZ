@@ -1,9 +1,15 @@
 # TaskEZ
 Welcome to TaskEZ – your intuitive and efficient task management companion. Simplify your day and stay organized effortlessly with our user-friendly ToDo list app.
 
+<p align="center">
+  <img src="https://github.com/prakarshs/TaskEZ/assets/138369731/211452c4-612f-436f-a51b-230920c57bb3" alt="demo">
+</p>
+
+
 * ![HTML]
 * ![CSS]
 * ![Javascript]
+
 
 
 
