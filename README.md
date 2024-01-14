@@ -12,7 +12,7 @@ Welcome to TaskEZ – your intuitive and efficient task management companion. Si
 
 Contact Me Here - [Prakarsh Srivastava](prakarsh2101@gmail.com)
 
-Project Link: [https://github.com/prakarshs/TaskEZ](https://github.com/prakarshs/TaskEZ)
+Project Link: [Check Demo Here!!](https://prakarshs.github.io/TaskEZ/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
